@@ -19,3 +19,7 @@ which holds equivalence to the original bash command:
 ```
 
 
+## Final note
+If you're a 42 student struggling to understand this project, I got your back! Please refer to this Notion page that I wrote covering the general concepts related to this project! It's in Portuguese :cactus:
+
+> [Acelera — Pipex](https://rodsmade.notion.site/Acelera-Pipex-83043dd893f94229a91ae98123c0553f)
